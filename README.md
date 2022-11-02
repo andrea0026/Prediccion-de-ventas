@@ -5,4 +5,6 @@ Desarrollar un modelo que permita predecir el comportamiento de venta de artícu
 METODOLOGIA:
 Examinación de los datos – Limpieza – análisis exploratorio – balanceo de datos – aplicación de modelos –– entrenamiento y predicción – métricas y rendimiento - análisis de resultados.
 
+![alt text](https://github.com/andrea0026/prediccion-de-ventas/blob/main/image1.png?raw=true)
+
 
